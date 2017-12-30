@@ -25,7 +25,7 @@ if(x=="1"){xxx="permanent-skin-whitening-with-boiled.html"}
 if(x=="2"){xxx="5-benefits-of-corn-silk-that-you-didnt.html"}
 if(x=="3"){xxx="simple-tricks-to-remove-stains-from.html"}
 if(x=="4"){xxx="aloe-vera-killer-of-fat-deposits-it.html"}
-if(x=="5"){xxx="reasons-why-your-legs-cramp-up-at-night.html"}a_to_ve[i].href="http://www.coegin.online/1999/01/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="reasons-why-your-legs-cramp-up-at-night.html"}a_to_ve[i].href="http://satulagi.teruso.web.id/2017/12/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
